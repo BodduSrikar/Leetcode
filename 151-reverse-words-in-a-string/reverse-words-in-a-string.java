@@ -8,7 +8,7 @@ class Solution {
             if(i!=0) res.append("");
         }
     
-        String ans= res.toString().trim();
-        return ans;
+         
+        return res.toString().trim();
     }
 }
